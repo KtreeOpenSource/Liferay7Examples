@@ -1,0 +1,6 @@
+Bundle-SymbolicName: ktree_liferay_osgi_example
+Bundle-Version: 1.0.0
+Import-Package: \
+com.liferay.wiki.model;version="[1.0,2)",\
+com.liferay.wiki.service;version="[1.1,2)",\
+*
